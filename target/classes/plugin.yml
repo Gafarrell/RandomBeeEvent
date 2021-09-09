@@ -1,0 +1,9 @@
+main: io.github.arkrimus.Main
+name: Bees
+version: 0.1
+commands:
+  bees:
+    description: Command used to control the bees plugin
+    permission: bees.*
+    usage: Syntax Error! Perhaps you meant /<bees (start/stop) or /bees (setCount/setTime) (number)?
+
